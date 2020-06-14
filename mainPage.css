@@ -2,6 +2,7 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.9);
   
 }
 .top__bar{
@@ -30,6 +31,7 @@ body{
   margin: 0;
   position: relative;
   background-color: white;
+  
 
   
 }
@@ -69,14 +71,16 @@ body{
   height: 98vh;
   margin-top: 0.5%;
   top: 10%;
-  left: 4.5%;
+  left: 7.5%;
   display: flex;
+  background-color: white;
+   
   
 }
 .column{
   
   height: auto;
-  width: 40vw;
+  width: 30vw;
   overflow-y: scroll;
   border-right: thin solid black;
   text-align: center;
@@ -118,8 +122,8 @@ body{
 }
 .top-profile{
   display: relative;
-  width: 50%;
-  height: 2.5rem;
+  width: 45%;
+  height: 2.3rem;
   border: thin solid rgba(0, 0, 0, 0.7);
   border-radius: 1rem;
   padding-right: 0.7rem;
@@ -130,8 +134,8 @@ body{
 }
 .Defi-profile{
   display: relative;
-  width: 50%;
-  height: 2.5rem;
+  width: 45%;
+  height: 2.3rem;
   border: thin solid rgba(0, 0, 0, 0.7);
   border-radius: 1rem;
   padding-right: 0.7rem;
@@ -142,8 +146,8 @@ body{
 }
 .eth2-profile{
   display: relative;
-  width: 50%;
-  height: 2.5rem;
+  width: 45%;
+  height: 2.3rem;
   border: thin solid rgba(0, 0, 0, 0.7);
   border-radius: 1rem;
   padding-right: 0.7rem;
